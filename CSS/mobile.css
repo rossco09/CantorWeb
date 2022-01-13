@@ -99,7 +99,7 @@ h3, h4{
     border-left: none;
     border-right: none;
     padding: 15px;
-    width: fit-content;
+    width: 50%;
     margin: auto;
 }
 table, th, td{
